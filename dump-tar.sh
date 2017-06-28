@@ -1,3 +1,2 @@
 #!/bin/sh
-model="$1"
-cat /tmp/${model}.tar.gz
+cat /tmp/pc_x86_64.tar.gz
